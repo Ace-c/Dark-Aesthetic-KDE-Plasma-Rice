@@ -1,1 +1,1 @@
-# Dark-Aesthetic-KDE-Plasma-Rice
+# Minimal-Desktop-KDE Plasma
